@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:
+## Date:28.05.2025
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
@@ -229,6 +229,14 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/99bb091a-5a57-4043-bc1e-92cdd51647d0)
+![image](https://github.com/user-attachments/assets/9139f849-cf03-47d3-88a7-30473b7966bc)
+![image](https://github.com/user-attachments/assets/2469429f-f776-4047-8909-f51e3c31ee3c)
+![image](https://github.com/user-attachments/assets/33bac5ec-6a7d-41bc-aab0-6fc3e54c3a4d)
+
+
+
 
 
 ## RESULT:
